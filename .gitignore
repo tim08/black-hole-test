@@ -1,0 +1,89 @@
+```
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.MF
+.TemporaryItems
+.deps
+.directory
+.DS_Store
+.fuse_hidden*
+.gitattributes
+.hgignore
+.jscsrc
+.jshintignore
+.svn
+.wafpickle-N
+*~
+*.swp
+*.swo
+*#
+.\#*
+.c9/
+.platform-native/
+.settings/
+!.editorconfig
+.nyc_output
+coverage/
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```
